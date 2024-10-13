@@ -37,9 +37,7 @@ var detaisObj={
 };
 
 detaisObj.myObj.friend=["Hero","younus"];
-
 console.log(detaisObj)
 
 //nothing change
 // Object.freeze(detaisObj)
-
