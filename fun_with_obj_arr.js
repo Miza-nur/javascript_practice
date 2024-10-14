@@ -44,3 +44,7 @@ function showArray(anyObject){
     console.log(`Array first element is ${myArray[2]}`);
 }
 showArray([100,200,300,400,800]);
+
+
+
+
