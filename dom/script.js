@@ -3,4 +3,8 @@ function printvalue(){
     alert("Welcome: "+name);  
     }  
 
+    //querySelector
 const result=document.querySelector("#hello").innerText="Welcome Programmer"
+
+// css with seclector
+document.querySelector("#hello").style.color="red";
