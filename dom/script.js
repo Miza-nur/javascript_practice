@@ -28,3 +28,9 @@ div.innerHTML=`
 `,
 
 bodyId.appendChild(div);
+
+//onclick event.......
+
+function forDate(){
+    document.getElementById("bodyId").innerText=Date();
+}
