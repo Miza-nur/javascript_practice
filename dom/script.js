@@ -7,7 +7,7 @@ function printvalue(){
 const result=document.querySelector("#hello").innerText="Welcome Programmer"
 
 // css with seclector
-document.querySelector("#hello").style.color="red";
+document.querySelector("#hello").style.color="blue";
 
 //append element.....
 
