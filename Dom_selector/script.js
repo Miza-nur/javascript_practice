@@ -14,4 +14,5 @@ const findId1=document.getElementById('helloo');
 console.log(findId1);
 
 // getElementsByClassName
-const findclass =document.getElementsByClassName('')
+const findclass =document.getElementsByClassName('class1');
+console.log(findclass);
