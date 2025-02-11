@@ -4,7 +4,7 @@
 const selectQuery=document.querySelector('#spantag').innerText='Hello programmer';
 console.log(selectQuery);
 const selectQuery2=document.querySelector('#ptag');
-console.log(selectQuery2.innerHTML='<h>This is Selector</h>');
+console.log(selectQuery2.innerHTML='<h1>This is Selector</h1>');
 
 
 // querySelectorAll
