@@ -6,3 +6,8 @@ function headfunc(){
 function forDate(){
     document.getElementById('date').innerText = Date();
 }
+
+//Array function
+const bgcolor = ()=>{
+    document.body.style.backgroundColor="blue";
+}
