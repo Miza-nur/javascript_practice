@@ -7,7 +7,7 @@ document.getElementById('update-btn').addEventListener('click',function(){
 
     inputfield.value='';
 
-})
+  });
 
 
 
@@ -16,3 +16,4 @@ loginbtn.addEventListener('click',function(){
     loginbtn.innerText='Logout';
     loginbtn.style.backgroundColor='green';
 })
+
