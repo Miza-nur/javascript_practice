@@ -28,3 +28,13 @@ height: 30px;
  background-color: silver;
  cursor: pointer;   
 }
+
+#comment-Place span{
+    margin: 5%;
+    width:fit-content;
+    display: block;
+    background-color: #e4e2e6;
+    text-align:justify;
+    padding: 5%;
+    border-radius: 20px;
+}
