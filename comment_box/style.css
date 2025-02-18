@@ -1,0 +1,30 @@
+.comment-box{
+    width: 300px;
+    border-radius: 20px;
+    background-color: #F4F1F8;
+    margin-left: 20%;
+    
+}
+h1{
+    text-align: center;
+}
+#line{
+    width: 100%;
+    border: 1px solid white;
+}
+#comment{
+    width: 250px;
+    margin: 3%;
+    border: none;
+    border-radius: 10px;
+    
+}
+#submit-btn{
+height: 30px;
+ margin-left: 5%;  
+ margin-bottom: 5%;
+ border-radius: 10px;
+ border: none;
+ background-color: silver;
+ cursor: pointer;   
+}
