@@ -5,6 +5,10 @@ function dataLoad(){
 }
 
 function dataDisplay(data){
-    console.log(data);
-    data.map(user=>console.log(user.email));
+    const div=document.getElementById('divTag')
+    data.map(user=>{
+        const p=document.createElement('p')
+        p.innerText=user.name;
+        div.appendChild(p);
+    });
 }
