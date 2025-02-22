@@ -1,0 +1,10 @@
+#divTag{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+}
+#divTag div{
+    background-color: rgb(228, 221, 212);
+    margin: 5px;
+    padding: 2%;
+    border-radius: 5px;
+}
